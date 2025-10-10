@@ -2,7 +2,7 @@
 <img wiidth="200" height="200" src="https://github.com/kumame/IconMakeTool/blob/main/logo.png" alt="IconMakeTool">
 
 ### 应用程序下载
-- 2025/10/10 [Icom_Make_Tool_v1.1.0](https://github.com/kumame/IconMakeTool/releases/download/app/Icom_Make_Tool_v1.1.0.zip)
+- 2025/10/10 [Icom_Make_Tool_v1.1.0](https://github.com/kumame/IconMakeTool/releases/download/app/Icom.Make.Tool.v1.1.0.zip)
   - 应用程序分辨率翻倍（导出图像也翻倍）
   - 支持  自定义素材
   - 增加 逐层导出
