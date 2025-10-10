@@ -2,7 +2,7 @@
 <img wiidth="200" height="200" src="https://github.com/kumame/IconMakeTool/blob/main/logo.png" alt="IconMakeTool">
 
 ### 应用程序下载
-- [Icom_Make_Tool_v1.0.0](https://github.com/kumame/IconMakeTool/releases/download/app/Icom_Make_Tool_v1.0.0.zip)
+- 2025/10/10 [Icom_Make_Tool_v1.1.0](https://github.com/kumame/IconMakeTool/releases/download/app/Icom_Make_Tool_v1.1.0.zip)
 
 ### 版本更新及资源下载：
 - 工具内点击**获取更新**，下载所需的版本
