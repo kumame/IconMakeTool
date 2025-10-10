@@ -3,6 +3,12 @@
 
 ### 应用程序下载
 - 2025/10/10 [Icom_Make_Tool_v1.1.0](https://github.com/kumame/IconMakeTool/releases/download/app/Icom_Make_Tool_v1.1.0.zip)
+  - 应用程序分辨率翻倍（导出图像也翻倍）
+  - 支持  自定义素材
+  - 增加 逐层导出
+  - 增加 导出webp格式
+  - 增加 批量操作图层
+
 
 ### 版本更新及资源下载：
 - 工具内点击**获取更新**，下载所需的版本
